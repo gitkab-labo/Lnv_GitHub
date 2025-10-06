@@ -1,2 +1,1 @@
 これは最初のGitHubファイルです。
-これは最初のGitHubファイルです。（new-branch)
